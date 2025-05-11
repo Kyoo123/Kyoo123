@@ -24,7 +24,9 @@ I'm a Student based in Austria. I enjoy working on web development, networking, 
 
 ### Firewalls & ACL
 [https://nwt.voidcore.dev](https://nwt.voidcore.dev)
-*A project from the school year 2024/25 about Firewalls, Access Control Lists (ACL's), VLANs and DHCP. Assemled in Cisco Packet Tracer and Notion, hosted @ Notion and GitHub Pages*
+*A project from the school year 2024/25 about Firewalls, Access Control Lists (ACL's), VLANs and DHCP. *
+*Assemled in Cisco Packet Tracer and Notion, hosted @ Notion and GitHub Pages*
+
 Tech Stack: 3x Cisco 1941 Routers, 4 Cisco 2650-24PS Switches, 3 Cisco PT-Servers, 24 Cisco PT-PCs
 
 ---
