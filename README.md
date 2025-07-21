@@ -20,15 +20,33 @@ I'm a Student based in Austria. I enjoy working on web development, networking, 
 
 ---
 
-## 🚀 My Top Projects
+🔒 Firewalls & Access Control Lists (ACL) Project
 
-### Firewalls & ACL
-[https://nwt.voidcore.dev](https://nwt.voidcore.dev)
-*A project from the school year 2024/25 about Firewalls, Access Control Lists (ACL's), VLANs and DHCP. *
-*Assemled in Cisco Packet Tracer and Notion, hosted @ Notion and GitHub Pages*
+Project link: nwt.voidcore.dev
 
-Tech Stack: 3x Cisco 1941 Routers, 4 Cisco 2650-24PS Switches, 3 Cisco PT-Servers, 24 Cisco PT-PCs
+This project, developed during the 2024/25 school year, focuses on the implementation and simulation of network security concepts, including firewalls, access control lists (ACLs), VLAN segmentation, and DHCP configuration.
 
+The design was created and tested using Cisco Packet Tracer, with detailed documentation prepared in Notion. The project is publicly hosted via Notion and GitHub Pages.
+
+Key technologies and equipment:
+
+    3 × Cisco 1941 routers
+
+    4 × Cisco Catalyst 2650-24PS switches
+
+    3 × Cisco Packet Tracer servers
+
+    24 × Cisco Packet Tracer PCs
+
+Objectives and outcomes:
+
+    Configure and test ACLs to control traffic between VLANs
+
+    Implement firewall rules for network security
+
+    Set up DHCP for dynamic IP address assignment
+
+    Document design decisions and configurations in a structured and accessible format
 ---
 
 ## 📊 GitHub Stats
