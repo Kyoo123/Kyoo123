@@ -22,7 +22,7 @@ I'm a Student based in Austria. I enjoy working on web development, networking, 
 
 🔒 Firewalls & Access Control Lists (ACL) Project
 
-Project link: [nwt.voidcore.dev](https://nwt.voidcore.dev/)
+Project link: [nwt.voidcore.dev](https://vdc.re/nwt-solo)
 
 This project, developed during the 2024/25 school year, focuses on the implementation and simulation of network security concepts, including firewalls, access control lists (ACLs), VLAN segmentation, and DHCP configuration.
 
