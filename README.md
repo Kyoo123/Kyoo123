@@ -7,7 +7,7 @@ I'm a Student based in Austria. I enjoy working on web development, networking, 
 -   🔭 I’m currently working on Firewalls & ACL configurations and other web projects.
 -   🌱 I’m currently learning Cisco IOS
 -   💬 Ask me about HTML, CSS, PHP, MariaDB/MySQL, network security, and Cloudflare.
--   📫 How to reach me: kyo@voidcore.dev
+-   📫 How to reach me: kyo@voidcore.dev, [https://discord.com/users/397439465708322819](Discord)
 -   😄 Pronouns: he/him idrc tho
 
 ---
