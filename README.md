@@ -14,9 +14,9 @@ I'm a Student based in Austria. I enjoy working on web development, networking, 
 
 ## 🛠️ My Skills
 
-**Languages:** HTML, CSS, PHP, Python, JS
-**Databases:** MariaDB/MySQL, PostgreSQL, MS SQL
-**Tools:** ChatGPT, Google Gemini, GitHub, Cloudflare, Git, Docker, JetBrains
+- **Languages:** HTML, CSS, PHP, Python, JS
+- **Databases:** MariaDB/MySQL, PostgreSQL, MS SQL
+- **Tools:** ChatGPT, Google Gemini, GitHub, Cloudflare, Git, Docker, JetBrains
 
 ---
 
