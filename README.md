@@ -16,13 +16,14 @@ I'm a Student based in Austria. I enjoy working on web development, networking, 
 
 - **Languages:** HTML, CSS, PHP, Python, JS
 - **Databases:** MariaDB/MySQL, PostgreSQL, MS SQL
-- **Tools:** ChatGPT, Google Gemini, GitHub, Cloudflare, Git, Docker, JetBrains
+- **Tools:** ChatGPT, Google Gemini, GitHub, Cloudflare, Git, Docker, JetBrains, Claude
 
 ---
 
 🔒 Firewalls & Access Control Lists (ACL) Project
 
-Project link: [https://voidcore.dev/nwt-solo-project](https://voidcore.dev/nwt-solo-project)
+Project link: [https://thevoid.fyi/assets/experiments-docu/nwt-acls](https://thevoid.fyi/assets/experiments-docu/nwt-acls)
+
 
 This project, developed during the 2024/25 school year, focuses on the implementation and simulation of network security concepts, including firewalls, access control lists (ACLs), VLAN segmentation, and DHCP configuration.
 
