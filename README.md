@@ -1,14 +1,23 @@
-# Hi there, I'm Kyo 👋
+# Hi there, I'm Alex 👋
 
 ## 👨‍💻 About Me
 
-I'm a Student based in Austria. I enjoy working on web development, networking, and security.
+I build things on the internet — systems that are clean, efficient, and slightly™ overengineered. I started in networking, drifted into development, and somehow ended up enjoying both. Stability first. Aesthetic second. Chaos contained somehow.
 
--   🔭 I’m currently working on Firewalls & ACL configurations and other web projects.
--   🌱 I’m currently learning Cisco IOS
--   💬 Ask me about HTML, CSS, PHP, MariaDB/MySQL, network security, and Cloudflare.
--   📫 How to reach me: kyo@voidcore.dev, [Discord](https://discord.com/users/397439465708322819)
--   😄 Pronouns: he/him idrc tho
+I used to break things for fun. Now I build systems designed to survive people like me (˵ ͡° ͜ʖ ͡°˵)
+
+---
+
+## 🛠️ The Ecosystem
+
+- **Infrastructure & Security:** Multi-node home lab architecture, Okta MFA session gating, Cloudflare Zero Trust, and automated Windows bootstrap pipelines.
+- **Development & Data:** JetBrains suite toolset, backend systems (PostgreSQL, PHP), and legacy database refactoring.
+- **The Workstation:** 34" Ultrawide canvas flanked by dual displays, custom Hall Effect mechanical hardware, and a pure Terminal workflow.
+
+## 📫 Reach Me
+
+- **Email:** [alex@voidcore.dev](mailto:alex@voidcore.dev)
+- **Discord:** [voidcore](https://discord.com/users/397439465708322819)
 
 ---
 
@@ -74,16 +83,16 @@ Objectives and outcomes:
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="mailto:kyo@voidcore.dev">
+  <a href="mailto:alex@voidcore.dev">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
-  <a href="https://github.com/Kyoo123" target="_blank">
+  <a href="https://github.com/alex-voidcore" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kyoo123&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=alex-voidcore&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
